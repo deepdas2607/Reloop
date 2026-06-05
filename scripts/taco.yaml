@@ -1,0 +1,20 @@
+path: taco_yolo
+train: images/train
+val: images/val
+nc: 15
+names:
+  0: Plastic Bottle
+  1: Plastic Bag
+  2: Plastic Wrapper
+  3: Plastic Container
+  4: Styrofoam
+  5: Crisp MLP Packet
+  6: Glass Bottle
+  7: Broken Glass
+  8: Aluminium Can
+  9: Food Can
+  10: Metal Scrap
+  11: Cardboard
+  12: Paper
+  13: Cigarette
+  14: Hazardous
