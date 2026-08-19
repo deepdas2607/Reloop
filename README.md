@@ -117,7 +117,7 @@ The application includes a hidden **Presentation Mode**. Swipe from the left edg
 
 ```bash
 # Clone the repository
-git clone https://github.com/PranavShirke/reloop.git
+git clone https://github.com/deepdas2607/reloop.git
 cd reloop
 
 # Create Virtual Environment
